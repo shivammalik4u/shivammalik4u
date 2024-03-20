@@ -4,6 +4,12 @@
 <br> 
 🔭 I’m currently working on:  <br>Full-Stack EdTech Project<br><br>👯 I’m looking to collaborate on:  <br>Fullstack projects<br><br>🌱 I’m currently learning:  <br>Java Spring Boot<br><br>💬 Ask me about:  <br>JavaScript, React, Node.js, C#, ASP.NET and any general software development questions.<br><br>⚡ Fun fact:  <br>I am mechanical engineer by Degree!.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <!-- Bio -->
 <p align="center">Passionate React & React Native Developer | MERN Stack Enthusiast | C# ASP.NET | Java Spring Boot Aficionado</p>
 
