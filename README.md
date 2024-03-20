@@ -1,3 +1,6 @@
+<h1 align="center">Hey there, I'm Shivam Malik!</h1>
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Full-Stack EdTech Project<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Java Spring Boot<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, C#, ASP.NET and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I am mechanical engineer by Degree!.
 <h1 align="center">👋 Hey there, I'm Shivam Malik!</h1>
 
 <!-- Bio -->
