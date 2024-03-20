@@ -11,7 +11,7 @@
 <br>
 
 <!-- Bio -->
-<p align="center">Passionate React & React Native Developer | MERN Stack Enthusiast | C# ASP.NET | Java Spring Boot Aficionado</p>
+<h2 align="center">Passionate React & React Native Developer | MERN Stack Enthusiast | C# ASP.NET | Java Spring Boot Aficionado</h2>
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm a tech enthusiast with expertise in building web and mobile applications using modern technologies. I'm constantly learning and exploring new horizons in the world of software development.</p>
@@ -32,12 +32,12 @@
 </p>
 
 <!-- Projects -->
-<h2 align="center">Featured Projects</h2>
+<h2>Featured Projects</h2>
 
 <!-- Project -->
-<h3 align="center">Project </h3>
-<h3 align="center">Expense-Tracking</h3>
-<p align="center">
+<h3>Project </h3>
+<h3>Expense-Tracking</h3>
+<p>
   <a href="https://github.com/shivammalik4u/Expense-Tracking">
 <!--     <img src="Project 1 Image URL" alt="Project 1" width="300" height="200"> -->
   </a>
