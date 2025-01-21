@@ -34,7 +34,6 @@
 <h2>Featured Projects</h2>
 
 <!-- Project -->
-<h3>Project </h3>
 <h3>Ed Tech</h3>
 <h3>Fitness App</h3>
 <h3>Expense-Tracking</h3>
