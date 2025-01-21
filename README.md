@@ -35,12 +35,15 @@
 
 <!-- Project -->
 <h3>Project </h3>
+<h3>Ed Tech</h3>
+<h3>Fitness App</h3>
 <h3>Expense-Tracking</h3>
 <p>
   <a href="https://github.com/shivammalik4u/Expense-Tracking">
 <!--     <img src="Project 1 Image URL" alt="Project 1" width="300" height="200"> -->
   </a>
 </p>
+
 
 
 <!-- Connect with Me -->
