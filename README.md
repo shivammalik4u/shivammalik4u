@@ -2,7 +2,7 @@
 💫 About Me:
 <br>
 <br> 
-🔭 I’m currently working on:  <br>Full-Stack EdTech Project<br><br>👯 I’m looking to collaborate on:  <br>Fullstack projects<br><br>🌱 I’m currently learning:  <br>Java Spring Boot<br><br>💬 Ask me about:  <br>JavaScript, React, Node.js, C#, ASP.NET and any general software development questions.<br><br>⚡ Fun fact:  <br>I am mechanical engineer by Degree!.
+🔭 I’m currently working on:  <br>Full-Stack EdTech Project<br><br>👯 I’m looking to collaborate on:  <br>Fullstack projects<br><br>🌱 I’m currently learning:  <br>React Native<br><br>💬 Ask me about:  <br>JavaScript, React, Node.js, C#, ASP.NET and any general software development questions.<br><br>⚡ Fun fact:  <br>I am mechanical engineer by Degree!.
 
 <br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 <!-- Bio -->
-<h2 align="center">Passionate React & React Native Developer | MERN Stack Enthusiast | C# ASP.NET | Java Spring Boot Aficionado</h2>
+<h2 align="center">Passionate React & React Native Developer | C# ASP.NET </h2>
 
 <!-- Introduction -->
 <p align="center">Welcome to my GitHub profile! I'm a tech enthusiast with expertise in building web and mobile applications using modern technologies. I'm constantly learning and exploring new horizons in the world of software development.</p>
